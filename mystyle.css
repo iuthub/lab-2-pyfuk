@@ -1,0 +1,22 @@
+body {
+  background-color: #4b5659;
+
+  color: white;
+}
+
+h1 {
+  color: lightblue;
+ }
+
+h3 {
+	color: #00c8ff;
+}
+
+a {
+  color: red;
+}
+
+
+p {
+  font-family: "Times New Roman", Times, serif;
+} 
